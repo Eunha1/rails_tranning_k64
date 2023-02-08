@@ -1,0 +1,1 @@
+# rails_tranning_k64
